@@ -205,11 +205,12 @@ body {
 .menu .row {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 5rem;
+  margin-top: 2rem;
   justify-content: center;
 }
 
 .menu .row .menu-card {
+  margin-top: 3rem;
   text-align: center;
   width: 25%;
 }
